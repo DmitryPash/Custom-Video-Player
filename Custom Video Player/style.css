@@ -1,8 +1,5 @@
-
-button {
-    border-style: none;
-    height: 40px;
-    width: 60px;
+*{
+    box-sizing: border-box;
 }
 
 body {
@@ -13,6 +10,12 @@ body {
     min-height: 100vh;
     background-size: cover;
     font-family: sans-serif;
+}
+
+button {
+    border-style: none;
+    height: 40px;
+    width: 60px;
 }
 
 .wrapper {
